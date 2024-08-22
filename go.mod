@@ -1,4 +1,4 @@
-module github.com/koinav/protos1.git
+module github.com/koinav/protos1
 
 go 1.23.0
 
